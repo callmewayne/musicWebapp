@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [ {
+        "name": "Attach",
+        "type": "node",
+        "address": "localhost",
+        "port": 5858,
+        "request": "attach",
+        "protocol":"inspector"
+      }
+    ]
+  }
